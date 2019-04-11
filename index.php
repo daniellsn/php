@@ -1,3 +1,3 @@
 <?php
-echo v2;
+echo v1;
 ?>
